@@ -1,0 +1,5 @@
+{
+  "name": "Gemini TUI Assistant",
+  "description": "A web-based terminal user interface (TUI) that uses the Gemini API to answer questions about TUI development libraries like 'blessed' and 'ink'. It simulates a command-line experience in your browser.",
+  "requestFramePermissions": []
+}
